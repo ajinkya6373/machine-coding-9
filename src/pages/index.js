@@ -1,0 +1,7 @@
+export {default as HomePage} from "./home"
+export {default as VideoListingPage} from "./videoListing"
+export {default as SingleVideoPage} from "./videoPlayer"
+export {default as PlayListPage} from "./playlist"
+export {default as PlaylistVideosPage} from "./playlistVideo"
+export {default as WatchLaterPage} from "./watchLater"
+export {default as ExplorePage} from "./explore"
